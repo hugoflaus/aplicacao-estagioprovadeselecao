@@ -8,7 +8,7 @@
 - React
 
 ## Backend
-Backend desenvolvido em Nodejs + TypeScript
+Backend desenvolvido em Nodejs + TypeScript( por falta de conhecimento em php )
 
 ## 💻Como rodar o projeto
 
